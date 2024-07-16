@@ -274,7 +274,7 @@ function mainDialog(selectionName) {
         "type":"dropdownlist",
         "value":["inches","points","millimeters","centimeters","picas","pixels"], 
         "visible":true,        
-        "selection":0,         
+        "selection":2,         
         // "onChange":function(){ alert("My Drop Downdown change"); return true;}
     },
     {
@@ -328,7 +328,7 @@ function mainDialog(selectionName) {
         "type":"dropdownlist",
         "value":[0,5,10,20], 
         "visible":true,        
-        "selection":1,         
+        "selection":3,         
         // "onChange":function(){ alert("My Drop Downdown change"); return true;}
     }
 
